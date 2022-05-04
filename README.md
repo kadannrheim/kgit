@@ -1,2 +1,0 @@
-# kgit
-for experiments
